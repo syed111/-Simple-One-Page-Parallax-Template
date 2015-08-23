@@ -1,0 +1,25 @@
+.navbar-custom-padding {
+    padding: 20px 50px 20px 50px;
+}
+.main_container-custom-style{
+    background-color: #ffffff;
+    margin-top: -30px;
+    padding: 20px;
+}
+.custom-jumbtron-style{
+    margin-top: 90px;
+}
+.custom-base-color{
+    background-color: #2196f3;
+}
+.custom-base-text-color{
+    color: #2196f3;
+}
+.custom-heading-padding-above
+{
+    padding-top: 100px;
+}
+.custom-col-mid-3-padding-above
+{
+    padding-top: 20px;
+}
